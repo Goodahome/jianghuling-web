@@ -1,0 +1,1 @@
+import{la as e}from"./router-Cn3qqW_7.js";var t=t=>[``,...e].includes(t);export{t};

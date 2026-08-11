@@ -1,1 +1,0 @@
-import{Xt as e}from"./router-DsaYMWcb.js";function t(t){return e({url:`/growth/products`,method:`GET`,params:t})}function n(t,n=1){return e({url:`/growth/products/${t}/redeem`,method:`POST`,data:{quantity:n}})}function r(t){return e({url:`/growth/redeem-orders`,method:`GET`,params:t})}function i(){return e({url:`/growth/level`,method:`GET`})}export{n as i,t as n,r,i as t};
