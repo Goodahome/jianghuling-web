@@ -1,0 +1,1 @@
+import{Xt as e}from"./router-CUlKiW8K.js";function t(t){return e({url:`/feedbacks`,method:`POST`,data:t})}function n(t){return e({url:`/feedbacks`,method:`GET`,params:{page:t.page,pageSize:t.pageSize,...t.status?{status:t.status}:{}}})}function r(t){return e({url:`/feedbacks/${t}`,method:`GET`})}export{r as n,n as r,t};

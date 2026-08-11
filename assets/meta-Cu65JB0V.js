@@ -1,1 +1,0 @@
-import{Xt as e}from"./router-Cn3qqW_7.js";function t(){return e({url:`/meta/reward-suggest`,method:`GET`})}function n(){return e({url:`/meta/warrant-templates`,method:`GET`})}function r(t){return e({url:`/meta/checklist-templates`,method:`GET`,params:{tags:t}})}function i(){return e({url:`/meta/growth-config`,method:`GET`})}export{n as i,i as n,t as r,r as t};
