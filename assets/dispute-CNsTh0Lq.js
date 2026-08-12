@@ -1,0 +1,1 @@
+import{Qt as e}from"./router-D489XrhU.js";function t(t,n){return e({url:`/bounties/${t}/disputes`,method:`POST`,data:n})}function n(t){return e({url:`/disputes/${t}`,method:`GET`})}function r(t){return e({url:`/disputes/mine`,method:`GET`,params:t})}export{n,r,t};
