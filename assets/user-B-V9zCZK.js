@@ -1,1 +1,0 @@
-import{Qt as e}from"./router-D489XrhU.js";function t(t){return e({url:`/user/profile`,method:`PUT`,data:t})}function n(t){return e({url:`/user/real-name`,method:`POST`,data:t})}function r(){return e({url:`/user/invites`,method:`POST`})}function i(t){return e({url:`/user/invites`,method:`GET`,params:t})}export{t as i,i as n,n as r,r as t};
