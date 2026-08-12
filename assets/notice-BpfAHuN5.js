@@ -1,0 +1,1 @@
+import{Qt as e}from"./router-pMh1gqq3.js";function t(t){return e({url:`/notices`,method:`GET`,params:t})}function n(t){return e({url:`/notices/${t}`,method:`GET`})}function r(t,n=3){return e({url:`/notices/top`,method:`GET`,params:{category:t,limit:n}})}export{r as n,t as r,n as t};

@@ -1,1 +1,0 @@
-import{Qt as e}from"./router-B_kjw7nm.js";function t(t,n){return e({url:`/bounties/${t}/disputes`,method:`POST`,data:n})}function n(t){return e({url:`/disputes/${t}`,method:`GET`})}function r(t){return e({url:`/disputes/mine`,method:`GET`,params:t})}export{n,r,t};
