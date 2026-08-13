@@ -1,1 +1,0 @@
-import{Qt as e}from"./router-DbPOzGqt.js";function t(t,n){return e({url:`/ranks/${t}`,method:`GET`,params:n})}function n(){return e({url:`/ranks/me`,method:`GET`})}function r(t){return e({url:`/lord/applications`,method:`POST`,data:{statement:t}})}function i(){return e({url:`/lord/applications/mine`,method:`GET`})}export{t as i,i as n,n as r,r as t};
